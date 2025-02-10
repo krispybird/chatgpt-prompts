@@ -1,4 +1,5 @@
-For IAT 806
+**For IAT 806**
+
 This is part of a series of ChatGPT generated codes showing the 
 limitations of Chatgpt in generating many snippets of code
 A series of prompts were used in the following order, which 
